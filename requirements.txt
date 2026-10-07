@@ -1,0 +1,6 @@
+pyautogui
+SpeechRecognition
+pyaudio
+vosk
+customtkinter
+pillow
